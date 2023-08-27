@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Exm1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/bluee</item>
+        <item name="colorPrimaryVariant">@color/bluee</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor"> @color/bluee</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Exm1" parent="Base.Theme.Exm1" />
+    <style name="MyQuestions">
+        <item name="fontFamily">@font/iranian_sans</item>
+    </style>
+    <style name="MyToolBar">
+        <item name="android:textSize">20sp</item>
+        <item name="color">@color/white</item>
+        <item name="fontFamily">@font/cramps</item>
+    </style>
+</resources>

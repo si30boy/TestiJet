@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_black">#F0FFFFFF</color>
+    <color name="blueAsli">#1762DF</color>
+    <color name="blueAsan">#42A5F5</color>
+    <color name="green">#43A047</color>
+    <color name="color_scoller">#FFC947</color>
+    <color name="bluee">#035AA6</color>
+    <color name="yellow">#d2ee82  </color>
+    <color name="white_asli">#efeff0 </color>
+    <color name="blue_bar">#bae4e5</color>
+    <color name="purple_500">#AB47BC</color>
+    <color name="purple_700">#9C27B0</color>
+    <color name="teal_200">#0097A7</color>
+    <color name="teal_700">#0097A7</color>
+    <color name="third_color">#e8e8F9</color>
+    <color name="blue_teal">#043b5c</color>
+    <color name="blue_scroll">#0b7fab</color>
+    <color name="red">#D50000</color>
+</resources>
